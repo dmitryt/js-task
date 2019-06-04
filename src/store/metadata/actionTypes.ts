@@ -1,0 +1,1 @@
+export const TOGGLE_FAVOURITES = 'metadata/TOGGLE_FAVOURITES';
